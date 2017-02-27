@@ -1,0 +1,6 @@
+BACKUP ~ContagionGUImodmini/backup~	
+AUTHOR ~frostysh~
+VERSION ~v0.2beta~
+
+BEGIN ~Contagion GUI mod component zero.~
+COPY ~ContagionGUImodmini/CGUIMOD~ ~override~
