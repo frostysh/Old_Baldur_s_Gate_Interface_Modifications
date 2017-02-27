@@ -1823,6 +1823,8 @@ Deviant Art - deviantart.com , there I have found many muse-inspiring-pictures f
 
 --------------- VERSIONS HISTORY ---------------
 
+v 0,3 - Fixed bug, UI.MENU -- line 602: text style "normal" ---> text style "CGuiMod", there was Charrec panel, resistence, effects, etc field.
+
 v 0,2beta - tested on BG2:EE v 2.3672, updated README file, the single program divided into two version. 1) Standard , 2) mini (without modifications to dialogue-box), 4shared data-host service changed to GitHub. 
 Added mod for Siege of Dragonspear, and tested on BG:EE + SoD DLC v 2.3673
 

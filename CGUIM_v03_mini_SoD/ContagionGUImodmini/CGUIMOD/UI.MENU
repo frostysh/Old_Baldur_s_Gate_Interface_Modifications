@@ -599,7 +599,7 @@ menu
 			{
 				area		0 0 -1 -1
 				text		lua "Infinity_FetchString(statusEffects[rowNumber].strRef)"
-				text style  'normal'
+				text style  'CGuiMod'
 				text align	left center
 			}
 		}
