@@ -1,5 +1,3 @@
-# Hello_World
-Baldur's Gate series mods 
 --------------- INTRODUCTION ---------------
 
 Readme file for Contagion GUI mod for Baldur's Gate 2: Enhanced Edition v 2.3672 (or 2+ idk).
@@ -1841,4 +1839,4 @@ You can freely modify and redistribute the any parts of this mod, but try to do 
 
 
 
-										frostysh , 2017 year AD.
+										frostysh , 2017 year AD. 
